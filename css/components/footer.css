@@ -1,0 +1,23 @@
+footer {
+  background-size: cover;
+  background-color: rgb(88, 147, 121);
+  position: bottom;
+  height: 60px;
+  text-align: center;
+}
+
+li {
+  display: inline;
+}
+
+ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+
+}
+
+svg {
+  width: 25px;
+  height: 25px;
+}

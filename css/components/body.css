@@ -1,0 +1,32 @@
+.container {
+  margin: auto;
+  justify-content: space-around;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.text-center {
+  text-align: center;
+  font-weight: bold;
+}
+
+.card {
+    display: flex;
+    flex-direction: row;
+    background-color: aliceblue;
+    margin: 20px;
+    padding:10px;
+    width: 500px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    border: solid #033022;
+    border-radius: 5px;
+}
+
+.desc{
+  padding: 10px;
+}
+
+.card img {
+    width: 150px;
+}

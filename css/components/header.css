@@ -1,0 +1,27 @@
+header {
+  background-image: url("https://img.freepik.com/vecteurs-premium/feuille-the-vert-motif-illustration-vectorielle-continue-feuilles-the-croquis-dans-style-vintage-pour-impression_501826-133.jpg?w=2000");
+  background-size: cover;
+  background-position: center;
+  margin: auto;
+  color:rgb(236, 247, 242);
+  text-align: center;
+  text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+  font-size: 30px;
+}
+
+.bouton {
+  display: block;
+  color:rgb(0, 1, 0);
+  font-weight: bold;
+  text-shadow: none;
+  padding: 8px 20px;
+  border-bottom: 5px inset #033022;
+  background-color: rgb(88, 147, 121);
+  opacity: 0.9;
+  margin: 2%;
+  margin-bottom: 2%;
+}
+
+.bouton:hover {
+  opacity: 0.7;
+}
